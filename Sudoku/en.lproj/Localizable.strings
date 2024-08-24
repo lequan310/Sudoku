@@ -1,0 +1,40 @@
+// Menu View
+"new-game" = "New Game";
+"resume" = "Resume";
+"leaderboard" = "Leaderboard";
+"howtoplay" = "How To Play";
+"settings" = "Settings";
+
+// Settings View
+"back" = "Back";
+"playername" = "Player Name";
+"difficulty" = "Difficulty";
+"difficulty.description" = "Select difficulty of the game";
+"easy" = "Easy";
+"medium" = "Medium";
+"hard" = "Hard";
+"darkmode" = "Dark Mode";
+"darkmode.description" = "Toggle the current theme to light or dark";
+"language" = "Language";
+"language.description" = "Toggle between Vietnamese or English";
+
+// How to Play View
+"introduction" = "Introduction";
+"introduction.content" = "Sudoku is a logic-based, combinatorial number-placement puzzle.\n\nIn classic Sudoku, the objective is to fill a 9 × 9 grid with digits so that each column, each row, and each of the nine 3 × 3 subgrids that compose the grid contain all of the digits from 1 to 9.";
+"rules" = "Rules";
+"rules.content" = "1. Sudoku grid consists of 9x9 spaces.\n\n2. You can use only numbers from 1 to 9.\n\n3. Each 3×3 block can only contain numbers from 1 to 9.\n\n4. Each vertical column can only contain numbers from 1 to 9.\n\n5. Each horizontal row can only contain numbers from 1 to 9.\n\n6. Each number in the 3×3 block, vertical column or horizontal row can be used only once.\n\n7. The game is over when the whole Sudoku grid is correctly filled with numbers.";
+"difficulty.content" = "There are 3 puzzle difficulties: Easy, Medium, and Hard. The puzzles in different difficulty pools may require more techniques to solve.\n\nFor each difficulty, there will be a different number of hints provided and a different number of errors allowed in that game:\n\nEasy:\n• Puzzle difficulty rating <= 0.45\n• 5 hints provided\n• 10 errors allowed.\n\nMedium:\n• Puzzle difficulty rating between 0.45 and 0.6\n• 3 hints provided\n• 5 errors allowed.\n\n Hard:\n• Puzzle difficulty rating > 0.6\n• 0 hint provided\n• 3 errors allowed.";
+
+// Game View
+"undo" = "Undo";
+"hint" = "Hint";
+"error: %lld / %lld" = "Error: %lld / %lld";
+"hint: %lld / %lld" = "Hint: %lld / %lld";
+"score: %lld" = "Score: %lld";
+"congratulations" = "Congratulations";
+"rip" = "SKILL ISSUE";
+"player: %@" = "Player: %@";
+"error: %lld" = "Error: %lld";
+"hint: %lld" = "Hint: %lld";
+"leave" = "Leave";
+"difficulty: %@" = "Difficulty: %@";

@@ -1,0 +1,40 @@
+// Menu View
+"new-game" = "Game Mới";
+"resume" = "Tiếp Tục";
+"leaderboard" = "Xếp Hạng";
+"howtoplay" = "Hướng Dẫn";
+"settings" = "Cài Đặt";
+
+// Settings View
+"back" = "Trở lại";
+"playername" = "Tên Người Chơi";
+"difficulty" = "Độ Khó";
+"difficulty.description" = "Chọn độ khó của game";
+"easy" = "Dễ";
+"medium" = "Thường";
+"hard" = "Khó";
+"darkmode" = "Chế Độ Tối";
+"darkmode.description" = "Thay đổi giữa chế độ nền sáng hoặc tối";
+"language" = "Ngôn Ngữ";
+"language.description" = "Thay đổi giữa tiếng Việt và tiếng Anh";
+
+// How to Play View
+"introduction" = "Hướng Dẫn";
+"introduction.content" = "Sudoku, ban đầu có tên gọi là Number Place là một trò chơi câu đố sắp xếp chữ số dựa trên logic theo tổ hợp.\n\nMục tiêu của trò chơi là điền các chữ số vào một lưới 9×9 sao cho mỗi cột, mỗi hàng, và mỗi phần trong số chín lưới con 3×3 cấu tạo nên lưới chính đều chứa tất cả các chữ số từ 1 tới 9.";
+"rules" = "Luật Chơi";
+"rules.content" = "1. Sudoku là câu đố trí tuệ có hình dạng lưới gồm 9x9 ô trống.\n\n2. Bạn chỉ có thể sử dụng các số từ 1 đến 9.\n\n3. Mỗi khối gồm 3×3 ô trống chỉ có thể chứa các số từ 1 đến 9.\n\n4. Mỗi hàng dọc chỉ có thể chứa các số từ 1 đến 9.\n\n5. Mỗi hàng ngang chỉ có thể chứa các số từ 1 đến 9.\n\n6. Mỗi số trong khối 3×3, hàng dọc hoặc hàng ngang không được trùng nhau.\n\nCâu đố được giải khi điền đúng hết tất cả các số trên toàn bộ lưới Sudoku.";
+"difficulty.content" = "Có 3 độ khó khác nhau: Dễ, Vừa, và cuối cùng là Khó. Độ khó càng cao thì câu đố sudoku càng khó và cần nhiều kĩ thuật hơn.\n\n Với mỗi độ khó khác nhau, người chơi sẽ được số lần gợi ý và số lần mắc lỗi giới hạn:\n\nDễ:\n• Câu đố có độ khó <= 0.45\n• Được 5 lần gợi ý.\n• Được 10 lần mắc lỗi.\n\nVừa:\n• Câu đố có độ khó từ 0.45 tới 0.6\n• Được 3 lần gợi ý.\n• Được 5 lần mắc lỗi.\n\nKhó:\n• Câu đố có độ khó > 0.6\n• Được 0 lần gợi ý.\n• Được 3 lần mắc lỗi";
+
+// Game View
+"undo" = "Đi lại";
+"hint" = "Gợi ý";
+"error: %lld / %lld" = "Lỗi: %lld / %lld";
+"hint: %lld / %lld" = "Gợi ý: %lld / %lld";
+"score: %lld" = "Điểm: %lld";
+"congratulations" = "Xin Chúc Mừng";
+"rip" = "Vấn Đề Kĩ Năng";
+"player: %@" = "Tên: %@";
+"error: %lld" = "Lỗi: %lld";
+"hint: %lld" = "Gợi ý: %lld";
+"leave" = "Quay Lại";
+"difficulty: %@" = "Độ Khó: %@";
